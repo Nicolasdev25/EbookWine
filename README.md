@@ -1,7 +1,7 @@
 # EbookWine
 - Este é um ebook grátis realizado no curso da DIO
 - foi utilizado as IAs: Google Gemni, ChatGPT
-  # pronpts:
+  # prompts:
   1- Faça um texto para ebook, com foco na historia do vinho e sua evolução ate os dias atuais.
 
 regras:
